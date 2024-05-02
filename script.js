@@ -18,8 +18,8 @@ const image = document.querySelector('.image');
 image.src = './img/planetimg.jpg';
 
 // task3
-const a = document.querySelector('.link');
-console.log(a);
+const link = document.querySelector('.link');
+console.log(link);
 
 const ahref = document.querySelector('.link');
 ahref.href = 'https://www.w3schools.com/tags/att_a_href.asp';
